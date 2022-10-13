@@ -1,0 +1,44 @@
+item {
+    id: 1
+    name: 'Air filter'
+}
+
+item {
+    id: 2
+    name: 'Battery'
+}
+
+item {
+    id: 3
+    name: 'Brake fluid'
+}
+
+item {
+    id: 4
+    name: 'Coolant'
+}
+
+item {
+    id: 5
+    name: 'Engine cover'
+}
+
+item {
+    id: 6
+    name: 'Fuse box'
+}
+
+item {
+    id: 7
+    name: 'Oil intake'
+}
+
+item {
+    id: 8
+    name: 'Oil pin'
+}
+
+item {
+    id: 9
+    name: 'Wiper fluid'
+}
